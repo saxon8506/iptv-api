@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251224083406 +0800">
+<tv date="20251224102316 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7392,6 +7392,12 @@
 	<programme channel="NewTV惊悚悬疑" start="20251224132200 +0800" stop="20251224143300 +0800">
 		<title lang="zh">逃出无人岛</title>
 	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251224143300 +0800" stop="20251224150300 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251224150300 +0800" stop="20251224165200 +0800">
+		<title lang="zh">花漾少女杀人事件</title>
+	</programme>
 	<channel id="新动漫">
 		<display-name lang="zh">新动漫</display-name>
 	</channel>
@@ -13487,6 +13493,15 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20251224124700 +0800" stop="20251224141300 +0800">
 		<title lang="zh">复仇计划</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251224141300 +0800" stop="20251224144300 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251224144300 +0800" stop="20251224155100 +0800">
+		<title lang="zh">使命营救</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251224155100 +0800" stop="20251224162100 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
