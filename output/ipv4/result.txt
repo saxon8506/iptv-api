@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-06 06:21:08,http://171.83.103.119:9999/rtp/239.69.1.110:10298
+2026-01-06 18:22:59,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 
 📺央视频道,#genre#
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
@@ -25,8 +25,6 @@ CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 
 ☘️上海频道,#genre#
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
@@ -42,20 +40,20 @@ CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
@@ -65,6 +63,7 @@ Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
+CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
@@ -85,6 +84,7 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 天津体育,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A9%E6%B4%A5%E4%BD%93%E8%82%B2&auth=666858
 
 🪁动画频道,#genre#
+新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil
@@ -94,7 +94,6 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
